@@ -1,0 +1,54 @@
+body {
+  background-color: #0000FF;
+  font-family: verdana;
+  color: #cccccc;
+  text-align: center;
+}
+
+article {
+  height: 500px;
+  width: 500px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+footer {
+  height: 50px;
+  width: 1000px;
+  width: 100%;
+}
+
+nav {
+  height: 50px;
+  width: 1000px;
+  margin: 10px;
+}
+
+#mail:link {
+  text-decoration: none;
+  color: #ffff00;
+}
+
+aside {
+  height: 500px;
+  width: 500px;
+  display: inline-block;
+}
+
+#banner {
+  height: 100px;
+  width: 1000px;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+}
+
+#rover:link {
+  background-color: white;
+  padding: 8px 15px 8px 15px;
+  text-decoration: none;
+  color: black;
+  float: left;
+}
